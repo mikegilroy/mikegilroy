@@ -24,5 +24,6 @@ I’m a certified sailboat skipper, dog lover and movie buff. When not coding I 
 
 ### Projects I'm working on
 
-🐶 DogCam - Dog Selfie Camera (iOS/WatchOS)
+DogCam – Dog Selfie Camera (iOS/WatchOS)
+
 [App Store](https://apps.apple.com/us/app/dogcam-dog-selfie-camera/id1441245944?platform=iphone) | [Website](https://www.dogcam.app) | [Apple App of the Day](https://apps.apple.com/gb/story/id1470367133)
