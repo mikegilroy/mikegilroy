@@ -1,5 +1,3 @@
-![Hello from Delicate Arch 👋](header.jpeg)
-
 Hello, I’m Mike. 👋
 ===
 
